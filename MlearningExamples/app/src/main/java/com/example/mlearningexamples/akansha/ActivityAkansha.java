@@ -1,11 +1,11 @@
-package com.example.mlearningexamples.arun;
+package com.example.mlearningexamples.akansha;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
 import com.example.mlearningexamples.R;
 
-public class ArunActivity extends AppCompatActivity {
+public class ActivityAkansha extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

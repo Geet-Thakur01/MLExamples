@@ -1,11 +1,11 @@
-package com.example.mlearningexamples.avadesh;
+package com.example.mlearningexamples.geet;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
 import com.example.mlearningexamples.R;
 
-public class AvadeshActivity extends AppCompatActivity {
+public class ActivityGeet extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
