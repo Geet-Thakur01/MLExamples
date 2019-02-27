@@ -23,7 +23,6 @@ public class MainActivity extends AppCompatActivity implements MyAdapter.CustomI
         MyAdapter mAdapter = new MyAdapter(this, list_items);
         user_list.setAdapter(mAdapter);
 
-
     }
 
     @Override
@@ -39,4 +38,5 @@ public class MainActivity extends AppCompatActivity implements MyAdapter.CustomI
             e.printStackTrace();
         }
     }
+
 }
